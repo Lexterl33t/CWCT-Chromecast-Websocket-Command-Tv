@@ -1,0 +1,23 @@
+{
+    "name": "bryton/chromecast_web_tv_command",
+    "authors": [
+        {
+            "name": "brytonl33t",
+            "email": "paraghostsociety@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "slim/slim": "^4.9",
+        "php-di/slim-bridge": "^3.2",
+        "slim/psr7": "^1.5",
+        "nyholm/psr7": "^1.4",
+        "nyholm/psr7-server": "^1.0",
+        "guzzlehttp/psr7": "^2",
+        "league/plates": "^3.4"
+    }
+}
