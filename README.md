@@ -7,3 +7,5 @@ Chromecast player and control in local network and remote network
 
 ## Setup local and remote connection
 ![](https://github.com/brytonl33t/CWCT-Chromecast-Websocket-Command-Tv/blob/master/images/Screenshot_1.png)
+
+To configure the connection it's easy to put the IP address of the chromecast and its port. The default port used by chromecast is 8009. If you want to do remote iil just open your port 8009 on the chromecast and you can connect remotely.
