@@ -15,5 +15,8 @@ To configure the connection it's easy to put the IP address of the chromecast an
 ### Play
 
 To playing a mp4 video paste your url in input URL and click in Play button.
+
 ![](https://github.com/brytonl33t/CWCT-Chromecast-Websocket-Command-Tv/blob/master/images/url.png)
 ![](https://github.com/brytonl33t/CWCT-Chromecast-Websocket-Command-Tv/blob/master/images/play_button.png)
+
+
