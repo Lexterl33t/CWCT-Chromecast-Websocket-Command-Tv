@@ -1,6 +1,8 @@
 <?php
 require_once '../vendor/autoload.php';
 
+session_start();
+
 $container = new \DI\Container();
 
 \Slim\Factory\AppFactory::setContainer($container);

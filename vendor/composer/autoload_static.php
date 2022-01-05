@@ -19,6 +19,7 @@ class ComposerStaticInitc0f79c5001ca48127b367acfe4f472ac
         array (
             'Symfony\\Polyfill\\Php80\\' => 23,
             'Slim\\Psr7\\' => 10,
+            'Slim\\Flash\\' => 11,
             'Slim\\' => 5,
         ),
         'P' => 
@@ -78,6 +79,10 @@ class ComposerStaticInitc0f79c5001ca48127b367acfe4f472ac
         'Slim\\Psr7\\' => 
         array (
             0 => __DIR__ . '/..' . '/slim/psr7/src',
+        ),
+        'Slim\\Flash\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/slim/flash/src',
         ),
         'Slim\\' => 
         array (

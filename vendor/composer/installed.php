@@ -1,22 +1,22 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => NULL,
+        'reference' => 'b5fd2e4f43bba89fde6934c49c328d2ef76f3a84',
         'name' => 'bryton/chromecast_web_tv_command',
         'dev' => true,
     ),
     'versions' => array(
         'bryton/chromecast_web_tv_command' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => NULL,
+            'reference' => 'b5fd2e4f43bba89fde6934c49c328d2ef76f3a84',
             'dev_requirement' => false,
         ),
         'fig/http-message-util' => array(
@@ -206,6 +206,15 @@
             'install_path' => __DIR__ . '/../ralouphie/getallheaders',
             'aliases' => array(),
             'reference' => '120b605dfeb996808c31b6477290a714d356e822',
+            'dev_requirement' => false,
+        ),
+        'slim/flash' => array(
+            'pretty_version' => '0.4.0',
+            'version' => '0.4.0.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../slim/flash',
+            'aliases' => array(),
+            'reference' => '9aaff5fded3b54f4e519ec3d4ac74d3d1f2cbbbc',
             'dev_requirement' => false,
         ),
         'slim/psr7' => array(
